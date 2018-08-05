@@ -3,6 +3,7 @@
 
 * {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
 
 body,td,th,p{
