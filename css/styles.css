@@ -117,7 +117,7 @@ nav h1 a {
     background-color: #3397DB;
     align-items: center;
 }
-.filter-options h2 {
+.filter-options h3 {
     color: white;
     font-size: 1rem;
     font-weight: normal;
@@ -166,7 +166,7 @@ nav h1 a {
 #restaurants-list li div {
     padding: 0 30px 25px;
 }
-#restaurants-list li h1 {
+#restaurants-list li h2 {
     color: #f18200;
     font-size: 14pt;
     font-weight: 200;
@@ -198,6 +198,16 @@ nav h1 a {
     top: 0;
     width: 100%;
     z-index: 10000;
+}
+.inside nav span {
+    margin: auto;
+}
+.inside nav span a {
+    color: #fff;
+    font-size: 3.5vw;
+    font-weight: 400;
+    letter-spacing: 1vw;
+    text-transform: uppercase;
 }
 .inside #maincontent {
     margin-top: 127.6px;
